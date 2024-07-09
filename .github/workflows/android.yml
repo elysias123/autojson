@@ -2,7 +2,7 @@ name: Json
 
 on:
   schedule:
-    - cron: '0 */4 * * *'  # 每4个小时运行一次
+    - cron: '*/1 * * * *'
 
 
 jobs:
