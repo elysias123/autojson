@@ -1,21 +1,21 @@
 {
   // Build Fields
-    "MANUFACTURER": "Google",
-    "MODEL": "Pixel 9",
-    "FINGERPRINT": "google/tokay_beta/tokay:Baklava/BP21.241121.009/12787338:user/release-keys",
-    "BRAND": "google",
-    "PRODUCT": "tokay_beta",
-    "DEVICE": "tokay",
-    "RELEASE": "Baklava",
-    "ID": "BP21.241121.009",
-    "INCREMENTAL": "12787338",
-    "TYPE": "user",
-    "TAGS": "release-keys",
-    "SECURITY_PATCH": "2024-12-05",
+    "MANUFACTURER": "null",
+    "MODEL": "null",
+    "FINGERPRINT": "null",
+    "BRAND": "null",
+    "PRODUCT": "null",
+    "DEVICE": "null",
+    "RELEASE": "",
+    "ID": "",
+    "INCREMENTAL": "",
+    "TYPE": "",
+    "TAGS": "",
+    "SECURITY_PATCH": "",
     "DEVICE_INITIAL_SDK_INT": "24",
 
   // System Properties
-    "*.build.id": "BP21.241121.009",
-    "*.security_patch": "2024-12-05",
+    "*.build.id": "",
+    "*.security_patch": "",
     "*api_level": "24"
 }
