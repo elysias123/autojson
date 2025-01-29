@@ -1,21 +1,21 @@
 {
   // Build Fields
-    "MANUFACTURER": "Google",
-    "MODEL": "Pixel 8a",
-    "FINGERPRINT": "google/akita_beta/akita:Baklava/BP22.250103.008/12932282:user/release-keys",
-    "BRAND": "google",
-    "PRODUCT": "akita_beta",
-    "DEVICE": "akita",
-    "RELEASE": "Baklava",
-    "ID": "BP22.250103.008",
-    "INCREMENTAL": "12932282",
-    "TYPE": "user",
-    "TAGS": "release-keys",
-    "SECURITY_PATCH": "2025-01-05",
+    "MANUFACTURER": "null",
+    "MODEL": "null",
+    "FINGERPRINT": "null",
+    "BRAND": "null",
+    "PRODUCT": "null",
+    "DEVICE": "null",
+    "RELEASE": "",
+    "ID": "",
+    "INCREMENTAL": "",
+    "TYPE": "",
+    "TAGS": "",
+    "SECURITY_PATCH": "",
     "DEVICE_INITIAL_SDK_INT": "24",
 
   // System Properties
-    "*.build.id": "BP22.250103.008",
-    "*.security_patch": "2025-01-05",
+    "*.build.id": "",
+    "*.security_patch": "",
     "*api_level": "24"
 }
